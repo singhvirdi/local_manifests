@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Please do not manually edit this file-->
+<manifest>
+  <project name="CyanogenMod/android_device_qcom_common" path="device/qcom/common" remote="github" revision="cm-11.0" />
+  <project name="CyanogenMod/android_device_motorola_qcom-common" path="device/motorola/qcom-common" remote="github" revision="cm-11.0" />
+  <project name="CyanogenMod/android_hardware_qcom_display-caf-new" path="hardware/qcom/display-caf-new" remote="github" revision="cm-11.0" />
+  <project name="CyanogenMod/android_hardware_qcom_media-caf-new" path="hardware/qcom/media-caf-new" remote="github" revision="cm-11.0" />
+  <project name="CyanogenMod/android_hardware_qcom_audio-caf" path="hardware/qcom/audio-caf" remote="github" revision="cm-11.0" />
+  <project name="CyanogenMod/android_hardware_qcom_media-caf" path="hardware/qcom/media-caf" remote="github" revision="cm-11.0" />
+  <project name="CyanogenMod/android_hardware_qcom_fm" path="hardware/qcom/fm" remote="github" revision="cm-11.0" />
+  <project name="CyanogenMod/android_hardware_qcom_display-caf" path="hardware/qcom/display-caf" remote="github" revision="cm-11.0" />
+  <project name="CyanogenMod/android_hardware_qcom_gps" path="hardware/qcom/gps" remote="github" revision="cm-11.0" />
+  <project name="CyanogenMod/android_hardware_qcom_display" path="hardware/qcom/display" remote="github" revision="cm-11.0" />
+  <project name="CyanogenMod/android_bootable_recovery" path="bootable/recovery" remote="github" revision="cm-11.0" />
+  <project name="CyanogenMod/android_hardware_qcom_audio" path="hardware/qcom/audio" remote="github" revision="cm-11.0" />
+  <project name="CyanogenMod/android_hardware_qcom_bt" path="hardware/qcom/bt" remote="github" revision="cm-11.0" />
+  <project name="CyanogenMod/android_hardware_qcom_camera" path="hardware/qcom/camera" remote="github" revision="cm-11.0" />
+  <project name="CyanogenMod/android_hardware_qcom_keymaster" path="hardware/qcom/keymaster" remote="github" revision="cm-11.0" />
+  <project name="CyanogenMod/android_hardware_qcom_media" path="hardware/qcom/media" remote="github" revision="cm-11.0" />
+  <project name="CyanogenMod/android_hardware_qcom_msm8960" path="hardware/qcom/msm8960" remote="github" revision="cm-11.0" />
+  <project name="CyanogenMod/android_hardware_qcom_msm8x74" path="hardware/qcom/msm8x74" remote="github" revision="cm-11.0" />
+  <project name="CyanogenMod/android_hardware_qcom_power" path="hardware/qcom/power" remote="github" revision="cm-11.0" />
+  <project name="CyanogenMod/android_hardware_qcom_sensors" path="hardware/qcom/sensors" remote="github" revision="cm-11.0" />
+  <project name="CyanogenMod/android_hardware_qcom_wlan" path="hardware/qcom/wlan" remote="github" revision="cm-11.0" />
+  <project name="skritchz/android_device_motorola_msm8610-common" path="device/motorola/msm8610-common" remote="github" revision="kk4.4" />
+  <project name="percy-g2/android_device_motorola_condor" path="device/motorola/condor" remote="github" revision="cm-11.0" />
+  <project name="ashwinr64/furnace-condor/" path="kernel/motorola/msm8610" remote="github" revision="aospa-legacy" />
+  <project name="percy-g2/android_vendor_motorola_condor" path="vendor/motorola/condor" remote="github" revision="cm-11.0" />
+  
+ </manifest>
+
+
+
+  
+  
