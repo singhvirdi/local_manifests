@@ -26,8 +26,7 @@
   <project name="percy-g2/android_device_motorola_condor" path="device/motorola/condor" remote="github" revision="cm-11.0" />
   <project name="ashwinr64/furnace-condor/" path="kernel/motorola/msm8610" remote="github" revision="aospa-legacy" />
   <project name="percy-g2/android_vendor_motorola_condor" path="vendor/motorola/condor" remote="github" revision="cm-11.0" />
-  
- </manifest>
+  </manifest>
 
 
 
